@@ -6,7 +6,7 @@ A lightweight and easy-to-deploy Docker-based node for synchronizing with the **
 
 ## Overview
 
-**SidraChain** is an EVM-compatible, Shariah-compliant blockchain (ChainID: **97453**) designed for decentralized finance without riba (interest), gharar (excessive uncertainty), and non-halal sectors. Leveraging a PoW consensus model, it supports Ethereum-native tooling and aims for ethical, inclusive financial access. :contentReference[oaicite:0]{index=0}
+**SidraChain** is an EVM-compatible, Shariah-compliant blockchain (ChainID: **97453**) designed for decentralized finance without riba (interest), gharar (excessive uncertainty), and non-halal sectors. Leveraging a PoW consensus model, it supports Ethereum-native tooling and aims for ethical, inclusive financial access. Learn more: **[Visit SidraChain Node Portal →](https://node.sldrachain.com)**
 
 This repository provides all you need to run a syncing node using Docker Compose.
 
